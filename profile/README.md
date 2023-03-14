@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="140" height="140" src="../assets/SolpeLogo.png" alt="Logo">
+   <img width="140" height="140" src="https://raw.githubusercontent.com/Sol-Pe/.github/main/profile/assets/SolpeLogo.png" alt="Logo">
   <h1 align="center"><b>Permissionless payments at the speed of light 🗲</b></h1>
   <p align="center">
 .
@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <img width="75%" height="75%" src="../assets/banner.png" alt="Banner">
+  <img width="75%" height="75%" src="https://raw.githubusercontent.com/Sol-Pe/.github/main/profile/assets/banner.png" alt="Banner">
 </p>
     <br />
